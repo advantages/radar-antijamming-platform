@@ -1,0 +1,25 @@
+{
+	"Fc":10e9,
+	"PRF":1e3,
+	"PW":60e-6,
+	"SweepBW":20e6,
+	"NumPuls":1,
+	"NumSf":3,
+	"Num_sp":3,
+	"PeakPower":1e9,
+	"Gain":60.0,
+	"ERP":1e6,
+	"MeanRCS":10.0,
+	"NoisePower":1e-13,
+	"IfBackBaffled":true,
+	"InUseOutputPort":true,
+	"TwoWayPropagation_target":true,
+	"TwoWayPropagation_jammer":false,
+	"urasize":[10.0,20.0],
+	"Target_loc":[10000.0,5000.0,0.0],
+	"Jammer_loc":[10000.0,5000.0,0.0],
+	"episode":32,
+	"jammer_type":"det1",
+	"history_len":3
+}
+
