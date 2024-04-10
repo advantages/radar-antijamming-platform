@@ -1,7 +1,7 @@
 # Radar Platform
 ## Basic Structure
 
-<img src=".\platform.png">
+<img src="./platform.png">
 The detailed flowchat for the anti-jamming platform
 
 
