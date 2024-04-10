@@ -1,5 +1,10 @@
 # Radar Platform
 ## Basic Structure
+
+<img src=".\platform.png">
+The detailed flowchat for the anti-jamming platform
+
+
 ### General Parameter Setting
 All the parameters utilzied in both Signal Simulation and Algorithm Simulation are stored in `setting.json`.
 ### Signal Simulation Part
